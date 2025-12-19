@@ -4,9 +4,9 @@
 <h3 align="center">Hey there! I'm a curious mind who loves exploring the world of data and discovering the stories hidden within it. I enjoy building things, breaking things (accidentally, of course), and figuring out how to make them better. When I'm not working with data, you might find me lost in a good book, experimenting with side projects, or wondering why my last bug fix broke everything else. Always learning, always questioning—welcome to my GitHub</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20views&color=0e75b6&style=flat" alt="pysolanki" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20views&color=0e75b6&style=flat" alt="pysolanki" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thepysolanki" target="blank"><img src="https://img.shields.io/twitter/follow/thepysolanki?logo=twitter&style=for-the-badge" alt="thepysolanki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thepysolanki" target="blank"><img src="https://img.shields.io/twitter/follow/thepysolanki?logo=twitter&style=for-the-badge" alt="thepysolanki" /></a> </p> -->
 
 - 💬 Ask me about **Data Science, Python, PostgreSQL**
 
